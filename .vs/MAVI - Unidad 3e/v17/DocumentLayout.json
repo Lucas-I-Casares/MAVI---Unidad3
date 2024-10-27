@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukin\\OneDrive\\Escritorio\\UNL Tareas\\MAVI\\MAVI - Unidad 3e\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA542F66-3F26-4F84-8FCB-A78123C0A6DA}|MAVI - Unidad 3e.vcxproj|C:\\Users\\lukin\\OneDrive\\Escritorio\\UNL Tareas\\MAVI\\MAVI - Unidad 3e\\MAVI - Unidad 3e.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA542F66-3F26-4F84-8FCB-A78123C0A6DA}|MAVI - Unidad 3e.vcxproj|solutionrelative:MAVI - Unidad 3e.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MAVI - Unidad 3e.cpp",
+              "DocumentMoniker": "C:\\Users\\lukin\\OneDrive\\Escritorio\\UNL Tareas\\MAVI\\MAVI - Unidad 3e\\MAVI - Unidad 3e.cpp",
+              "RelativeDocumentMoniker": "MAVI - Unidad 3e.cpp",
+              "ToolTip": "C:\\Users\\lukin\\OneDrive\\Escritorio\\UNL Tareas\\MAVI\\MAVI - Unidad 3e\\MAVI - Unidad 3e.cpp",
+              "RelativeToolTip": "MAVI - Unidad 3e.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T19:19:35.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
